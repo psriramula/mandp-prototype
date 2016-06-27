@@ -1,0 +1,32 @@
+{
+  "name": "mandp-prototype",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Creating prototype from the wireframes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/psriramula/mandp-prototype.git"
+  },
+  "keywords": [
+    "nodeJS",
+    "Grunt",
+    "SASS"
+  ],
+  "author": "Prasad Sriramula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psriramula/mandp-prototype/issues"
+  },
+  "homepage": "https://github.com/psriramula/mandp-prototype#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-sass": "^1.2.0"
+  }
+}
